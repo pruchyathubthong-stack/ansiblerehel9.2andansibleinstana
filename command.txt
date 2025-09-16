@@ -1,0 +1,1 @@
+ansible-playbook redhat92.yml && ansible-playbook -i 10.200.124.226, instana.yml -u root --ask-pass
